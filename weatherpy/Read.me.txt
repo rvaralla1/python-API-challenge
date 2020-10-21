@@ -1,0 +1,7 @@
+Max Temperature appears to have a direct correlation to City Latitude
+
+Humidity does not appear to have any direct correlation to City Latitude
+
+Cloudiness does not appear to have any direct correlation to city Latitude
+
+Wind Speed dooes not appear to have any correlation to city latitude
